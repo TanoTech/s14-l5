@@ -1,0 +1,366 @@
+[
+  {
+    "ID": 1,
+    "Descrizione": "Eccesso di velocità in zona urbana"
+  },
+  {
+    "ID": 2,
+    "Descrizione": "Eccesso di velocità in autostrada"
+  },
+  {
+    "ID": 3,
+    "Descrizione": "Passaggio con semaforo rosso"
+  },
+  {
+    "ID": 4,
+    "Descrizione": "Guida senza cintura di sicurezza"
+  },
+  {
+    "ID": 5,
+    "Descrizione": "Uso del telefono cellulare durante la guida senza vivavoce"
+  },
+  {
+    "ID": 6,
+    "Descrizione": "Guida in stato di ebbrezza"
+  },
+  {
+    "ID": 7,
+    "Descrizione": "Guida sotto l'effetto di sostanze stupefacenti"
+  },
+  {
+    "ID": 8,
+    "Descrizione": "Sosta vietata"
+  },
+  {
+    "ID": 9,
+    "Descrizione": "Parcheggio in seconda fila"
+  },
+  {
+    "ID": 10,
+    "Descrizione": "Violazione delle norme sui sorpassi"
+  },
+  {
+    "ID": 11,
+    "Descrizione": "Non rispetto dei limiti in zona scolastica"
+  },
+  {
+    "ID": 12,
+    "Descrizione": "Circolazione in corsia di emergenza"
+  },
+  {
+    "ID": 13,
+    "Descrizione": "Violazione delle norme sui passaggi a livello"
+  },
+  {
+    "ID": 14,
+    "Descrizione": "Manomissione o mancato uso di dispositivi di sicurezza veicolo"
+  },
+  {
+    "ID": 15,
+    "Descrizione": "Violazione delle norme sui trasporti eccezionali"
+  },
+  {
+    "ID": 16,
+    "Descrizione": "Manutenzione veicolo non conforme"
+  },
+  {
+    "ID": 17,
+    "Descrizione": "Violazione delle norme sull'inquinamento acustico"
+  },
+  {
+    "ID": 18,
+    "Descrizione": "Violazione delle norme ambientali (smaltimento sostanze pericolose)"
+  },
+  {
+    "ID": 19,
+    "Descrizione": "Guida senza patente"
+  },
+  {
+    "ID": 20,
+    "Descrizione": "Assicurazione veicolo non valida o scaduta"
+  },
+  {
+    "ID": 21,
+    "Descrizione": "Revisione veicolo non valida o scaduta"
+  },
+  {
+    "ID": 22,
+    "Descrizione": "Non rispetto della distanza di sicurezza"
+  },
+  {
+    "ID": 23,
+    "Descrizione": "Uso di luci non conformi o malfunzionanti"
+  },
+  {
+    "ID": 24,
+    "Descrizione": "Non rispetto dei segnali stradali"
+  },
+  {
+    "ID": 25,
+    "Descrizione": "Violazione delle norme sui veicoli a trazione animale"
+  },
+  {
+    "ID": 26,
+    "Descrizione": "Violazione delle norme sui ciclomotori"
+  },
+  {
+    "ID": 27,
+    "Descrizione": "Mancata precedenza a pedoni su strisce"
+  },
+  {
+    "ID": 28,
+    "Descrizione": "Violazione delle norme su carico e scarico merci"
+  },
+  {
+    "ID": 29,
+    "Descrizione": "Non rispetto delle indicazioni degli agenti stradali"
+  },
+  {
+    "ID": 30,
+    "Descrizione": "Violazione delle norme relative alla corsia preferenziale"
+  },
+  {
+    "ID": 31,
+    "Descrizione": "Circolazione senza luci di posizione dopo il tramonto"
+  },
+  {
+    "ID": 32,
+    "Descrizione": "Violazione delle norme sui limiti di carico del veicolo"
+  },
+  {
+    "ID": 33,
+    "Descrizione": "Mancato rispetto dei segnali di stop"
+  },
+  {
+    "ID": 34,
+    "Descrizione": "Violazione delle norme relative alla segnaletica orizzontale"
+  },
+  {
+    "ID": 35,
+    "Descrizione": "Mancato utilizzo dei dispositivi di segnalazione in caso di emergenza"
+  },
+  {
+    "ID": 36,
+    "Descrizione": "Violazione delle norme sulla precedenza alle rotonde"
+  },
+  {
+    "ID": 37,
+    "Descrizione": "Mancato rispetto delle norme sui segnali luminosi degli incroci"
+  },
+  {
+    "ID": 38,
+    "Descrizione": "Guida di veicolo rumoroso durante le ore notturne"
+  },
+  {
+    "ID": 39,
+    "Descrizione": "Violazione delle norme sugli pneumatici (usura o tipologia)"
+  },
+  {
+    "ID": 40,
+    "Descrizione": "Guida senza assicurazione responsabilità civile"
+  },
+  {
+    "ID": 41,
+    "Descrizione": "Violazione delle norme sulla precedenza agli incroci"
+  },
+  {
+    "ID": 42,
+    "Descrizione": "Mancato rispetto delle norme sul transito pedonale"
+  },
+  {
+    "ID": 43,
+    "Descrizione": "Violazione delle norme di sorpasso in curva"
+  },
+  {
+    "ID": 44,
+    "Descrizione": "Mancato uso del casco protettivo per motociclisti"
+  },
+  {
+    "ID": 45,
+    "Descrizione": "Non rispetto delle norme di precedenza nelle rotonde"
+  },
+  {
+    "ID": 46,
+    "Descrizione": "Violazione delle norme di precedenza agli incroci non regolati"
+  },
+  {
+    "ID": 47,
+    "Descrizione": "Guida in contromano"
+  },
+  {
+    "ID": 48,
+    "Descrizione": "Non rispetto dei limiti di velocità in condizioni di nebbia"
+  },
+  {
+    "ID": 49,
+    "Descrizione": "Violazione delle norme sul transito di veicoli pesanti"
+  },
+  {
+    "ID": 50,
+    "Descrizione": "Mancato uso delle luci di emergenza in caso di guasto"
+  },
+  {
+    "ID": 51,
+    "Descrizione": "Guida senza rispettare le norme di precedenza agli attraversamenti pedonali"
+  },
+  {
+    "ID": 52,
+    "Descrizione": "Violazione delle norme sulla segnaletica verticale"
+  },
+  {
+    "ID": 53,
+    "Descrizione": "Mancato rispetto delle norme sulle restrizioni di circolazione"
+  },
+  {
+    "ID": 54,
+    "Descrizione": "Guida senza assicurazione sul veicolo"
+  },
+  {
+    "ID": 55,
+    "Descrizione": "Non rispetto delle norme sulla circolazione in zone a traffico limitato"
+  },
+  {
+    "ID": 56,
+    "Descrizione": "Violazione delle norme sul transito di veicoli pesanti in determinati orari"
+  },
+  {
+    "ID": 57,
+    "Descrizione": "Guida senza avere effettuato il corso di aggiornamento periodico"
+  },
+  {
+    "ID": 58,
+    "Descrizione": "Guida senza assicurazione RCA"
+  },
+  {
+    "ID": 59,
+    "Descrizione": "Violazione delle norme sulle targhe alterate o non valide"
+  },
+  {
+    "ID": 60,
+    "Descrizione": "Mancata segnalazione di incidente stradale"
+  },
+  {
+    "ID": 61,
+    "Descrizione": "Non rispetto delle norme sui veicoli a due ruote"
+  },
+  {
+    "ID": 62,
+    "Descrizione": "Violazione delle norme sulla velocità minima in autostrada"
+  },
+  {
+    "ID": 63,
+    "Descrizione": "Guida con targa straniera non conforme alle normative"
+  },
+  {
+    "ID": 64,
+    "Descrizione": "Non rispetto delle norme sul transito dei veicoli di emergenza"
+  },
+  {
+    "ID": 65,
+    "Descrizione": "Mancato rispetto delle norme di priorità agli incroci"
+  },
+  {
+    "ID": 66,
+    "Descrizione": "Guida con documenti di circolazione scaduti"
+  },
+  {
+    "ID": 67,
+    "Descrizione": "Violazione delle norme sull uso del sistema di navigazione durante la guida"
+  },
+  {
+    "ID": 68,
+    "Descrizione": "Non rispetto delle norme sulle vie di fuga autostradali"
+  },
+  {
+    "ID": 69,
+    "Descrizione": "Guida con carico non adeguatamente assicurato"
+  },
+  {
+    "ID": 70,
+    "Descrizione": "Violazione delle norme sull uso delle catene da neve"
+  },
+  {
+    "ID": 71,
+    "Descrizione": "Mancato rispetto delle norme sull illuminazione del veicolo in caso di nebbia"
+  },
+  {
+    "ID": 72,
+    "Descrizione": "Guida con targa non visibile o coperta"
+  },
+  {
+    "ID": 73,
+    "Descrizione": "Violazione delle norme sulle frecce di emergenza"
+  },
+  {
+    "ID": 74,
+    "Descrizione": "Mancato rispetto delle norme sull utilizzo del seggiolino per bambini"
+  },
+  {
+    "ID": 75,
+    "Descrizione": "Guida senza l utilizzo dei dispositivi di protezione individuale"
+  },
+  {
+    "ID": 76,
+    "Descrizione": "Violazione delle norme sull allacciamento della cintura di sicurezza per i passeggeri"
+  },
+  {
+    "ID": 77,
+    "Descrizione": "Non rispetto delle norme sull uso del camion per il trasporto merci"
+  },
+  {
+    "ID": 78,
+    "Descrizione": "Guida con luce anteriore o posteriore non funzionante"
+  },
+  {
+    "ID": 79,
+    "Descrizione": "Violazione delle norme sulla segnaletica verticale"
+  },
+  {
+    "ID": 80,
+    "Descrizione": "Mancato rispetto delle norme sull uso del sistema anti-bloccaggio dei freni"
+  },
+  {
+    "ID": 81,
+    "Descrizione": "Guida senza l utilizzo del dispositivo di blocco del motore in caso di furto"
+  },
+  {
+    "ID": 82,
+    "Descrizione": "Violazione delle norme sull uso delle cinture di sicurezza nei mezzi di trasporto pubblico"
+  },
+  {
+    "ID": 83,
+    "Descrizione": "Non rispetto delle norme sull uso delle luci di emergenza durante la guida in colonne"
+  },
+  {
+    "ID": 84,
+    "Descrizione": "Guida senza l utilizzo degli estintori a bordo in caso di incendio"
+  },
+  {
+    "ID": 85,
+    "Descrizione": "Atti osceni in luogo pubblico"
+  },
+  {
+    "ID": 86,
+    "Descrizione": "Violenza domestica"
+  },
+  {
+    "ID": 87,
+    "Descrizione": "Offesa a pubblico ufficiale"
+  },
+  {
+    "ID": 88,
+    "Descrizione": "Diffamazione di Marco Silveri"
+  },
+  {
+    "ID": 89,
+    "Descrizione": "Distruzione dischi rigidi"
+  },
+  {
+    "ID": 90,
+    "Descrizione": "Livellazione pg seriale"
+  },
+  {
+    "ID": 91,
+    "Descrizione": "È passato a Windows :("
+  }
+]
